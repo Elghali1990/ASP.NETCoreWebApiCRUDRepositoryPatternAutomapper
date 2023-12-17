@@ -1,0 +1,17 @@
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\bin\Debug\net8.0\FormulaOne.DataService.deps.json
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\bin\Debug\net8.0\FormulaOne.DataService.dll
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\bin\Debug\net8.0\FormulaOne.DataService.pdb
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.AssemblyInfoInputs.cache
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.AssemblyInfo.cs
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.dll
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\obj\Debug\net8.0\refint\FormulaOne.DataService.dll
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.pdb
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\obj\Debug\net8.0\ref\FormulaOne.DataService.dll
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\bin\Debug\net8.0\FormulaOne.DataService.runtimeconfig.json
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\bin\Debug\net8.0\FormulaOne.Entities.dll
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\bin\Debug\net8.0\FormulaOne.Entities.pdb
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.csproj.AssemblyReference.cache
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.csproj.CopyComplete
+F:\ASP.NET Core Web Api CRUD Repository Pattern SQLite Automapper\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.genruntimeconfig.cache

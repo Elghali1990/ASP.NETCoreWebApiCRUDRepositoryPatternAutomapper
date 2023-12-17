@@ -1,0 +1,8 @@
+dotnet new sln --name FormulaOne ===>create solution
+dotnet new webapi -n FormulaOne.Api ====>create web api
+dotnet sln FormulaOne.sln add FormulaOne.Api/FormulaOne.Api.csproj =====>add project api to solution
+dotnet new classlib -n FormulaOne.Entities  =====>add project class Libarary
+dotnet sln FormulaOne.sln add FormulaOne.Entities/FormulaOne>entities.csproj  ===>add class lib to soltion
+dotnet add reference ..\FormulaOne.Entities\FormulaOne.Entities.csproj ====>add reference to project
+dotnet ef migrations add "initialMigratiom" --startup-project ..\FormulaOne.Api ===> generate migration
+dotnet ef database update --startup-project ../formulaone.api ====> create database
